@@ -133,9 +133,13 @@ If you want to import the project into your favourite IDE, you probably need to 
 Here is an example recipe for generationg Visual Studio project ([list](https://cmake.org/cmake/help/v3.10/manual/cmake-generators.7.html) of all CMake supported IDEs).
 After installing CMake, open your terminal, go to `epi_judge_cpp` folder and run following commands:
 
-    mkdir vs
-    cd vs
-    cmake -G "Visual Studio 15 2017" ..
+    ``mkdir vs
+      cd vs ``
+For Visual Studio 2017
+``cmake -G "Visual Studio 15 2017" ..``
+For Visual Studio 2019
+``cmake -G "Visual Studio  16 2019" ..``
+*If you have an error, please verify that you have Windows SDK.
 
 Then just open `epi_judge_cpp/vs/epi_judge_cpp.sln` solution with Visual Studio and it will load all EPI programs.
 
