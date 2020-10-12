@@ -135,7 +135,7 @@ After installing CMake, open your terminal, go to `epi_judge_cpp` folder and run
 
     mkdir vs
     cd vs
-    cmake -G "Visual Studio 15 2017" ..
+    cmake -G "Visual Studio 16 2019" ..
 
 Then just open `epi_judge_cpp/vs/epi_judge_cpp.sln` solution with Visual Studio and it will load all EPI programs.
 
