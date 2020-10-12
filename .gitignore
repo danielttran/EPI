@@ -9,10 +9,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Visual Studio 2017 files
+# Visual Studio files
 .vs
-/epi_judge_cpp/vs
-/epi_judge_cpp_solutions/vs
 /epi_judge_cpp/Release
 /epi_judge_cpp_solutions/Release
 /epi_judge_cpp/Debug

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Data\DEV\EPI\epi_judge_cpp\vs\CMakeFiles\ca30ef2e6effa68fd03de80a56576fdd\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2FF77E76-E3F5-3783-8AD6-0DD9C3D17E49}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
